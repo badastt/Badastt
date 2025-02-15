@@ -2,10 +2,11 @@
 
 I'm a computer science student who loves diving into the intricate details of how computers work. I'm also passionate about data science and machine learning.
 
-
-
+---
 
 ### 🧰 Skills
+
+#
 
 #### Data Science
 
@@ -47,9 +48,15 @@ I'm a computer science student who loves diving into the intricate details of ho
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
 
-<br />
+---
 
-#
+<a href="mailto:jeanrodriguesrocha@gmail.com">
+  <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
+</a>
+
+<a href="https://www.linkedin.com/in/jeanrrocha">
+  <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
+</a>
 
 ### 📊 Stats
 
