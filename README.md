@@ -58,6 +58,10 @@ I'm a computer science student who loves diving into the intricate details of ho
   <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
 </a>
 
+<br>
+
+#
+
 ### 📊 Stats
 
 ![Badast's GitHub stats](https://github-readme-stats.vercel.app/api?username=badastt&show_icons=true&theme=aura)
