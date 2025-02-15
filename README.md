@@ -54,7 +54,7 @@ I'm a computer science student who loves diving into the intricate details of ho
   <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
 </a>
 
-<a href="https://www.linkedin.com/in/jeanrrocha">
+<a href="https://www.linkedin.com/in/jeanrocha">
   <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
 </a>
 
